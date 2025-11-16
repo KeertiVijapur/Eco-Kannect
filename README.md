@@ -1,6 +1,6 @@
 # 🌿 Eco-Kannect
 
-**Eco-Kannect** is a social networking platform designed to **connect individuals and organizations committed to environmental conservation efforts**. It provides a dedicated space where users can share eco-tips, interact, organize events, and support green initiatives. 🌍💚
+**Eco-Kannect** is a social networking platform designed to **connect individuals and organizations committed to environmental conservation efforts**. It provides a dedicated space where users can share eco-tips, interact, organize events, and support green initiatives. 🌍
 
 ---
 
